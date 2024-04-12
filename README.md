@@ -1,6 +1,8 @@
 # ADS_Assignment
 
 i.Describe Named Entity Recognition. 
+Named Entity Recognition (NER) is a fundamental task in natural language processing that involves identifying and categorizing named entities within a text. These entities can include names of persons, organizations, locations, dates, quantities, and more. NER typically involves tokenizing the input text, assigning part-of-speech tags to each token, and then classifying them into predefined categories. This classification is often performed using machine learning techniques such as statistical models or deep learning architectures trained on labeled datasets. NER plays a crucial role in various NLP applications, including information retrieval, question answering, and sentiment analysis, by enabling the extraction of structured information from unstructured text data.
+
 ii. Write a python code to recognize named entities in a document. The input should be a text file containing 200 - 300 words in it. The output should be written to another file. 
 
 
